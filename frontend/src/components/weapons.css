@@ -1,0 +1,33 @@
+.numb{
+    height: 200px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: rgb(5, 5, 5);
+}
+.bard{
+    border: 2px solid rgb(9, 9, 9);
+}
+
+.h3{
+    text-align: center;
+    font-size:xx-large;
+    text-decoration:solid;
+    font-family: 'Franklin Gothic Medium';
+    letter-spacing: 4px;
+    color: rgb(125, 18, 18);
+    font-weight:10px ;
+}
+
+.sl{
+    text-align: center;
+    color: white;
+}
+.sha{
+    background-image: url('https://wallpapershome.com/images/wallpapers/warrior-3840x2160-gun-sword-4k-18296.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding-bottom: 35px;
+    height: 100vh;
+    }
